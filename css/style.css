@@ -577,7 +577,7 @@ nav{
 	display: flex;
 	justify-content: space-between;
 	padding-bottom: 0;
-	overflow-x: hidden;
+	overflow: hidden;
 }
 
 .tour-img {
